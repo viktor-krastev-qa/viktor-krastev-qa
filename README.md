@@ -1,16 +1,43 @@
-## Hi there 👋
+# Viktor Krastev
 
-<!--
-**viktor-krastev-qa/viktor-krastev-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### QA Automation Engineer | AI & LLM Testing
 
-Here are some ideas to get you started:
+I am a QA Automation Engineer with a strong foundation in manual and automated software testing, currently focused on testing AI-powered applications, Large Language Models, and AI agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to combine traditional QA engineering practices with modern AI evaluation and automation techniques to build reliable AI-powered software.
+
+## QA & Automation
+
+- C#
+- Test Automation
+- API Testing
+- Selenium
+- Playwright
+- Appium
+- Git
+
+## AI & Automation
+
+- Large Language Models (LLMs)
+- Generative AI
+- AI Agents & Agentic Workflows
+- Prompt Engineering
+- n8n Workflow Automation
+- LangChain
+
+## Featured Projects
+
+Practical QA and AI testing projects are currently being developed and will be published here.
+
+## Current Focus
+
+- AI & LLM testing
+- AI agent evaluation
+- Automated testing of AI-powered applications
+- API and integration testing
+- AI workflow automation
+
+## Connect
+
+- LinkedIn: [Viktor Krastev](www.linkedin.com/in/viktor-krastev-a504a9440)
+- Email: viktor.krastev.qa@gmail.com
