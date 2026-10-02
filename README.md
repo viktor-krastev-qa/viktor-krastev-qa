@@ -39,5 +39,5 @@ Practical QA and AI testing projects are currently being developed and will be p
 
 ## Connect
 
-- LinkedIn: [Viktor Krastev](www.linkedin.com/in/viktor-krastev-a504a9440)
+- LinkedIn: [Viktor Krastev] (www.linkedin.com/in/viktor-krastev-a504a9440)
 - Email: viktor.krastev.qa@gmail.com
